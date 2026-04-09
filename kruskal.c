@@ -94,4 +94,3 @@ int main()
         printf("Minimum cost of MST = %d\n", mincost);
     return 0;
 }
-
